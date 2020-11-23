@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="2-Quiero realizar consulta de todo mis usuarios" skipped="0" tests="1" time="0.26" timestamp="2020-11-22 07:52:48"><testcase name="lista de usuarios"><error type="java.lang.NullPointerException"/><system-err>null
+com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+co.com.interbank.stepdefinitions.ApiRegresStepsDefinitions.consultUsuarios(ApiRegresStepsDefinitions.java:20)
+✽.quiero realizar la consulta la lista de mis usuarios(src/test/resources/features/ApiRegres.feature:5)
+</system-err></testcase></testsuite>
